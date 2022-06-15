@@ -23,7 +23,6 @@ export default function App() {
       <Testimonials />
       <Contact />
       <Footer />
-      <h1>Hello CodeSandbox</h1>
     </>
     // <div className="App">
     //   <h1>Hello CodeSandbox</h1>
